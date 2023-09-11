@@ -1,9 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T17:50:08.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.54" version="21.7.2" etag="1IcikeCyIIfmdAPXCwNu" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-11T20:17:19.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.54" etag="njRQ8EMaH43cygM3kkdu" version="21.7.2" type="github">
   <diagram name="Page-1" id="uYiU1MgVdein8eoGloPt">
-    <mxGraphModel>
+    <mxGraphModel dx="1379" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XkNLfimdaJcu2J3mgPDF-1" target="XkNLfimdaJcu2J3mgPDF-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="420" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-8" value="" style="group" vertex="1" connectable="0" parent="XkNLfimdaJcu2J3mgPDF-1">
+          <mxGeometry x="105.00000000000001" y="20" width="51.97000000000001" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-7" value="10.127.0.5" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.oracleDataCenter;fillColor=#ffffff;strokeColor=#5E5E5E;aspect=fixed;container=0;" vertex="1" parent="XkNLfimdaJcu2J3mgPDF-8">
+          <mxGeometry y="270" width="51.97" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-2" value="10.186.48.20" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.oracleDataCenter;fillColor=#ffffff;strokeColor=#5E5E5E;aspect=fixed;container=0;" vertex="1" parent="XkNLfimdaJcu2J3mgPDF-8">
+          <mxGeometry y="190" width="51.97" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-4" value="10.186.60.30&amp;nbsp;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.oracleDataCenter;fillColor=#ffffff;strokeColor=#5E5E5E;aspect=fixed;container=0;" vertex="1" parent="XkNLfimdaJcu2J3mgPDF-8">
+          <mxGeometry y="100" width="51.97" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-5" value="10.186.60.29" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.oracleDataCenter;fillColor=#ffffff;strokeColor=#5E5E5E;aspect=fixed;container=0;" vertex="1" parent="XkNLfimdaJcu2J3mgPDF-8">
+          <mxGeometry width="51.97" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-30" value="" style="group" vertex="1" connectable="0" parent="XkNLfimdaJcu2J3mgPDF-1">
+          <mxGeometry x="250" y="20" width="51.97000000000001" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-31" value="10.8.11.30" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.oracleDataCenter;fillColor=#ffffff;strokeColor=#5E5E5E;aspect=fixed;container=0;" vertex="1" parent="XkNLfimdaJcu2J3mgPDF-30">
+          <mxGeometry y="270" width="51.97" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-32" value="10.9.14.206" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.oracleDataCenter;fillColor=#ffffff;strokeColor=#5E5E5E;aspect=fixed;container=0;" vertex="1" parent="XkNLfimdaJcu2J3mgPDF-30">
+          <mxGeometry y="190" width="51.97" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-33" value="10.62.128.138" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.oracleDataCenter;fillColor=#ffffff;strokeColor=#5E5E5E;aspect=fixed;container=0;" vertex="1" parent="XkNLfimdaJcu2J3mgPDF-30">
+          <mxGeometry y="100" width="51.97" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-34" value="10.9.17.56" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.oracleDataCenter;fillColor=#ffffff;strokeColor=#5E5E5E;aspect=fixed;container=0;" vertex="1" parent="XkNLfimdaJcu2J3mgPDF-30">
+          <mxGeometry width="51.97" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-47" value="10.8.21.49" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.oracleDataCenter;fillColor=#ffffff;strokeColor=#5E5E5E;aspect=fixed;container=0;" vertex="1" parent="XkNLfimdaJcu2J3mgPDF-1">
+          <mxGeometry x="250" y="380" width="51.97" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-48" value="10.234.240.215" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.oracleDataCenter;fillColor=#ffffff;strokeColor=#5E5E5E;aspect=fixed;container=0;" vertex="1" parent="XkNLfimdaJcu2J3mgPDF-1">
+          <mxGeometry x="105" y="380" width="51.97" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-10" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="40" width="350" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.463;entryY=0.46;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="XkNLfimdaJcu2J3mgPDF-10" source="XkNLfimdaJcu2J3mgPDF-12" target="XkNLfimdaJcu2J3mgPDF-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-12" value="NYSAP data pipelines&lt;br&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="XkNLfimdaJcu2J3mgPDF-10">
+          <mxGeometry x="10" y="180" width="51" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-14" value="container registry&lt;br&gt;" style="editableCssRules=.*;html=1;shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjM3Ny4xNTkzMDIxNjAyNjMwNSIgaGVpZ2h0PSIzMzYuMTYyNDk5MDAzMzEwOCIgdmlld0JveD0iLTAuMDU4MDAwMDA1NzgxNjUwNTQgMC4xMTI5OTk5OTgwMzMwNDY3MiA5OS43OTAwMDA5MTU1MjczNCA4OC45NDMwMDA3OTM0NTcwMyI+JiN4YTs8c3R5bGUgdHlwZT0idGV4dC9jc3MiPiYjeGE7CS5zdDB7ZmlsbDojNjY5ZGY2O30mI3hhOwkuc3Qxe2ZpbGw6I2FlY2JmYTt9JiN4YTsJLnN0MntmaWxsOiM0Mjg1ZjQ7fSYjeGE7PC9zdHlsZT4mI3hhOwk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNNTMuMjQzIDYyLjA5VjQ3LjA5NGwxMy4yMDEgOC40MTZ2MTUuMDM4em0tMzMuMDIxIDBWNDcuMDk0bDEzLjIwMSA4LjQxNnYxNS4wMzh6bTE2LjUxMS0zMi4yODVWMTQuODFsMTMuMjAxIDguNDE2djE1LjAzOHptNjIuOTk5IDMzLjk2VjI1LjQwM2wtOS41NjItMS44ODR2NDIuMTMxem0tOTkuNzg4IDBWMjUuNDAzbDkuNTYyLTEuODg0djQyLjEzMXoiLz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNNTMuMTg1IDQ3LjA5NGwxMy4yNTgtOC4yODcgMTMuMDE2IDguMjM0LTEzLjAxNiA4LjQ2OXptLTMzLjAyMSAwbDEzLjI1OC04LjI4NyAxMy4wMTYgOC4yMzQtMTMuMDE2IDguNDY5ek0zNi42NzUgMTQuODFsMTMuMjU4LTguMjg3IDEzLjAxNiA4LjIzNC0xMy4wMTYgOC40Njl6bTYzLjA1NiA0OC45NTZ2MTIuMjE3TDc3LjAxIDg5LjA1NVY3Ny43NTJ6bTAtMzguMzYzVjEzLjE4Nkw3Ny4wMS4xMTN2MTEuMzAzek0tLjA1OCA2My43NjZ2MTIuMjE3bDIyLjcyMSAxMy4wNzNWNzcuNzUyem0wLTM4LjM2M1YxMy4xODZMMjIuNjYzLjExM3YxMS4zMDN6Ii8+JiN4YTsJPHBhdGggY2xhc3M9InN0MiIgZD0iTTY2LjQ0NCA3MC41NDdWNTUuNTFsMTMuMDE2LTguNDY5djE1LjR6bS0zMy4wMjEgMFY1NS41MWwxMy4wMTYtOC40Njl2MTUuNHptMTYuNTExLTMyLjI4NVYyMy4yMjVsMTMuMDE2LTguNDY5djE1LjR6bTQ5Ljc5OCAyNS41MDNsLTkuNTYyIDUuODh2LTMuOTk2em0wLTM4LjM2M2wtOS41NjItNS44OHYzLjk5NnpNLS4wNTggNjMuNzY2bDkuNTYyIDUuODh2LTMuOTk2em0wLTM4LjM2M2w5LjU2Mi01Ljg4djMuOTk2eiIvPiYjeGE7PC9zdmc+;" vertex="1" parent="XkNLfimdaJcu2J3mgPDF-10">
+          <mxGeometry x="120" y="34" width="40" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_active_directory;" vertex="1" parent="XkNLfimdaJcu2J3mgPDF-10">
+          <mxGeometry x="22.5" y="20" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-16" value="10.57.8.194&lt;br&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="XkNLfimdaJcu2J3mgPDF-10">
+          <mxGeometry x="230" y="20" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-18" value="10.57.12.88" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="XkNLfimdaJcu2J3mgPDF-10">
+          <mxGeometry x="230" y="120" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-19" value="10.57.8.222" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="XkNLfimdaJcu2J3mgPDF-10">
+          <mxGeometry x="230" y="210" width="54.35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-22" value="NYSAP docker images&lt;br&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="XkNLfimdaJcu2J3mgPDF-10">
+          <mxGeometry x="80" y="290" width="50" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.587;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="XkNLfimdaJcu2J3mgPDF-10" source="XkNLfimdaJcu2J3mgPDF-25" target="XkNLfimdaJcu2J3mgPDF-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XkNLfimdaJcu2J3mgPDF-10" source="XkNLfimdaJcu2J3mgPDF-25" target="XkNLfimdaJcu2J3mgPDF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-25" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;" vertex="1" parent="XkNLfimdaJcu2J3mgPDF-10">
+          <mxGeometry x="113" y="175" width="37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XkNLfimdaJcu2J3mgPDF-29" value="storage accounts&lt;br&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Storage_Accounts.svg;" vertex="1" parent="XkNLfimdaJcu2J3mgPDF-10">
+          <mxGeometry x="230" y="331" width="50" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
