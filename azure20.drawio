@@ -1,9 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T15:23:33.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" version="21.7.4" etag="YJJrrtWJEqd710LNkgfa" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-18T15:29:22.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="UOIarMVOCYOUw6i5ynpK" version="21.7.4" type="github">
   <diagram name="Page-1" id="b3Hfw4k70nMQrL3_X2SJ">
-    <mxGraphModel>
+    <mxGraphModel dx="1002" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" parent="0" />
+        <mxCell id="1" style="" parent="0" />
+        <mxCell id="OT1isK1kAVEuF5FCFXCq-3" value="sm-dev-eus2-summonsprd-rg" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="110" width="540" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="OT1isK1kAVEuF5FCFXCq-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="110" width="50" height="27.500000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="OT1isK1kAVEuF5FCFXCq-6" value="Networking" parent="0" />
+        <mxCell id="OT1isK1kAVEuF5FCFXCq-7" value="sm-dev-eus2-summonsprd-rg" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="OT1isK1kAVEuF5FCFXCq-6">
+          <mxGeometry x="240" y="110" width="540" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="OT1isK1kAVEuF5FCFXCq-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;" vertex="1" parent="OT1isK1kAVEuF5FCFXCq-6">
+          <mxGeometry x="130" y="110" width="50" height="27.500000000000004" as="geometry" />
+        </mxCell>
+        <object label="Resource" id="OT1isK1kAVEuF5FCFXCq-10">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="OT1isK1kAVEuF5FCFXCq-11" value="sm-dev-eus2-summonsprd-rg" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="OT1isK1kAVEuF5FCFXCq-10">
+          <mxGeometry x="240" y="110" width="540" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="OT1isK1kAVEuF5FCFXCq-13" value="&lt;h2 style=&quot;margin: 0px 16px 0px 0px; overflow: hidden; text-overflow: ellipsis; line-height: 28px; flex: 0 1 auto; color: rgb(41, 40, 39); font-family: az_ea_font, &amp;quot;Segoe UI&amp;quot;, az_font, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255); outline: none !important;&quot; aria-describedby=&quot;be6c3551-43ba-40ae-8aac-b211824ae41e&quot; id=&quot;be6c3551-43ba-40ae-8aac-b211824ae41f&quot; class=&quot;fxs-blade-title-titleText msportalfx-tooltip-overflow&quot;&gt;&lt;font style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;023839-dev-eus2-vnet-01&amp;nbsp;&lt;/font&gt;&lt;/h2&gt;" style="fontStyle=1;verticalAlign=top;align=center;spacingTop=-2;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;strokeColor=#FF0A0A;fillColor=none;" vertex="1" parent="OT1isK1kAVEuF5FCFXCq-10">
+          <mxGeometry x="20" y="160" width="430" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="OT1isK1kAVEuF5FCFXCq-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;" vertex="1" parent="OT1isK1kAVEuF5FCFXCq-13">
+          <mxGeometry x="70" y="10" width="50" height="27.500000000000004" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
