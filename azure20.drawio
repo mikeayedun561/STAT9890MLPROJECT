@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T15:29:22.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="UOIarMVOCYOUw6i5ynpK" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-18T15:29:35.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="S2a-KdQegJUmtAS5A-1f" version="21.7.4" type="github">
   <diagram name="Page-1" id="b3Hfw4k70nMQrL3_X2SJ">
     <mxGraphModel dx="1002" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,15 +7,9 @@
         <mxCell id="OT1isK1kAVEuF5FCFXCq-3" value="sm-dev-eus2-summonsprd-rg" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="110" width="540" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="OT1isK1kAVEuF5FCFXCq-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="110" width="50" height="27.500000000000004" as="geometry" />
-        </mxCell>
         <mxCell id="OT1isK1kAVEuF5FCFXCq-6" value="Networking" parent="0" />
         <mxCell id="OT1isK1kAVEuF5FCFXCq-7" value="sm-dev-eus2-summonsprd-rg" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="OT1isK1kAVEuF5FCFXCq-6">
           <mxGeometry x="240" y="110" width="540" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="OT1isK1kAVEuF5FCFXCq-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;" vertex="1" parent="OT1isK1kAVEuF5FCFXCq-6">
-          <mxGeometry x="130" y="110" width="50" height="27.500000000000004" as="geometry" />
         </mxCell>
         <object label="Resource" id="OT1isK1kAVEuF5FCFXCq-10">
           <mxCell parent="0" />
