@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-26T14:32:14.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NA4V1ApZDLXHQKo1qFbC" version="21.6.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-26T16:01:00.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iNUDpKFwKd10qzXFERh2" version="21.6.8" type="github" pages="2">
   <diagram name="Current infrastrucute" id="vMSi74zKKZoESPufpiis">
-    <mxGraphModel dx="1900" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2250" dy="1853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,6 +93,12 @@
         </mxCell>
         <mxCell id="elL2RzY8pu2NPmQDRrTH-1" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;b&gt;NYSAP Current Infrastructure&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;strokeWidth=14;" vertex="1" parent="1">
           <mxGeometry x="105" y="-880" width="500" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RrPWj1b0JSeMhF9w49Of-1" value="PF # 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RrPWj1b0JSeMhF9w49Of-2" value="PF - Point of failure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-720" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
